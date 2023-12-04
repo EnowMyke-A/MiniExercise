@@ -159,10 +159,11 @@ button{
     margin: auto;
     padding-top: 30px;
     gap: 30px;
+    margin-bottom: 30px;
 }
 
 .large__image{
-    width: min(90%, 500px);
+    width: min(90%, 350px);
    
     border-radius: 8px;
     filter: drop-shadow(3px 2px 5px #666);
