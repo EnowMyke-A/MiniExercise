@@ -30,6 +30,7 @@ function createElement(img, name, desc, price){
     const nameCart = name;
     const priceCart = price;
     button.on('click', function(){
+        alert('Product added to cart');
         createCartItem(imageCart, nameCart, priceCart);
         $('.cart__container').removeClass('text__centered');
         const empty = $('.empty__cart').eq(0);
