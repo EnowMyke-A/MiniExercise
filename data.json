@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "category": "Headphones",
+    "brand": "JBL",
+    "name": "JBL Wireless Headphones",
+    "price": 99.99,
+    "description":"JBL wireless headphones provide a wire-free audio experience with high-quality sound, comfort, and features like noise cancellation. Choose from in-ear or over-ear styles for personalized listening. Perfect for music, calls, and on-the-go entertainment.",
+    "images": ["./assets/img/jbl-wireless-blue.png", "./assets/img/jbl-wireless-white.png", "./assets/img/jbl-wireless-pink.png", "./assets/img/jbl-wireless-black.png"]
+  },
+  {
+    "id": 2,
+    "category": "Headphones",
+    "brand": "Beats by Dre",
+    "name": "Beats Studio3 Wireless",
+    "price": 249.99,
+    "description":"Enjoy premium sound and wireless convenience with Beats Studio3 Wireless headphones. With up to 22 hours of battery life and advanced noise cancellation, experience powerful, balanced sound for an exceptional listening experience. Elevate your music with Beats Studio3.",
+    "images": ["./assets/img/beats-studio3-black.png", "./assets/img/beats-studio3-gray.png", "./assets/img/beats-studio3-brown.png", "./assets/img/beats-studio3-white.png"]
+  },
+
+  {
+    "id": 3,
+    "category": "Earbuds",
+    "brand": "Energy Sistem",
+    "name": "Energy Sistem True Wireless Earbuds",
+    "price": 79.99,
+    "description":"Experience true wireless freedom with Energy Sistem True Wireless Earbuds. With Bluetooth connectivity and a comfortable fit, enjoy clear sound and convenience on the go. Elevate your music with Energy Sistem Earbuds.",
+    "images": ["./assets/img/True-Wireless-white.png", "./assets/img/True-Wireless-blue.png", "./assets/img/True-Wireless-1.png", "./assets/img/True-Wireless-2.png"]
+  },
+
+  {
+    "id": 4,
+    "category": "Earbuds",
+    "brand": "Apple",
+    "name": "Apple AirPods earbuds",
+    "price": 179.99,
+    "description":"Enjoy the iconic audio quality and seamless connectivity of Apple AirPods earbuds. With instant pairing, hands-free Siri access, and a sleek design, these wireless earbuds offer a convenient and immersive listening experience. Elevate your audio with Apple AirPods.",
+"images": ["./assets/img/airpod-earbud-1.png", "./assets/img/airpod-earbud-2.png", "./assets/img/airpod-earbud-3.png", "./assets/img/airpod-earbud-4.png"]
+  }
+]
